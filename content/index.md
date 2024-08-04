@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Obsidian Hosting with Quartz
 ---
 
 This is a blank Quartz installation.
